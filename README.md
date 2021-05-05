@@ -1,5 +1,5 @@
 # DBMS_PROJECT
 Election Management<br>
 MADE BY :- <br>
-TUSHAAR KUMAR<br>
+TUSHAAR Kumar<br>
 HARISH DAIYA<br>
