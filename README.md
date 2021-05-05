@@ -2,4 +2,4 @@
 Election Management<br>
 MADE BY :- <br>
 TUSHAAR Kumar<br>
-HARISH DAIYA<br>
+HARISH D<br>
